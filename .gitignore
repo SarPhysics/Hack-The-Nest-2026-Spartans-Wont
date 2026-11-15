@@ -1,2 +1,5 @@
 # macOS filesystem holdover
 .DS_Store
+
+# secrets, shhh!
+.streamlit/*
